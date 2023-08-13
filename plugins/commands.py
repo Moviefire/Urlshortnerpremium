@@ -23,12 +23,12 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/LazyDeveloper')
+                InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/moviefireentertainment1')
             ],
             [
                 InlineKeyboardButton('🙆🏻 Help 🦾', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ],[
-            InlineKeyboardButton('Watch Tutorial', url='https://youtube.com/LazyDeveloper')
+            InlineKeyboardButton('Watch Tutorial', url='https://t.me/how_to_watch_from_mdisk')
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)

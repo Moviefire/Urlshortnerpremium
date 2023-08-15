@@ -16,17 +16,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Dev Channel Link : https://t.me/LazyDeveloper 
-Repo Link : https://github.com/LazyDeveloperr/LazyPrincess
+Dev Channel Link : https://t.me/moviefireentertainment1 
+Repo Link : https://github.com/Moviefire/Urlshortnerpremium
 License Link : https://github.com/LazyDeveloperr/LazyPrincess/blob/main/LICENSE
 # Removing this is strictly prohibited ! Don't remove this all without the 
 permission of LazyDeveloperr
 """
-    # Credit @LazyDeveloper.
-    # Please Don't remove credit.
-        # Born to make history @LazyDeveloper !
-
-    # Thank you LazyDeveloper for helping us in this Journey
+    
 
 from asyncio import sleep
 from pyrogram import Client, filters
@@ -37,7 +33,7 @@ from info import ADMINS , FLOOD, LAZY_MODE, LAZY_RENAMERS
 import random
 
 
-# Born to make history @LazyDeveloper !
+
 
 @Client.on_message( filters.private & (filters.document | filters.audio | filters.video))
 async def rename_start(client, message):

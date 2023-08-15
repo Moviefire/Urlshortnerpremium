@@ -263,7 +263,7 @@ async def next_page(bot, query):
                 ]
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/moviefireentertainment1')
+	    InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://telegram.me/moviefireentertainment1')
         ] 
     )
 
@@ -686,7 +686,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/moviefireentertainmentchat")
+                InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://telegram.mee/moviefireentertainmentchat")
             ],[
                 InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://youtube.com/@moviefireentertainment2097")
 
@@ -714,7 +714,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/moviefireentertainmentchat")
+                InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://telegram.me/moviefireentertainmentchat")
             ],[
                 InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://youtube.com/@moviefireentertainment2097")
             ]]
@@ -740,7 +740,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/moviefireentertainmentchat")
+                InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://telegram.me/moviefireentertainmentchat")
             ],[
                 InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://youtube.com/@moviefireentertainment2097")
 
@@ -767,7 +767,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/moviefireentertainmentchat")
+                InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://telegram.me/moviefireentertainmentchat")
             ],[
                 InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://youtube.com/@moviefireentertainment2097")
             ]]
@@ -793,7 +793,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/moviefireentertainmentchat")
+                InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://telegram.me/moviefireentertainmentchat")
             ],[
                 InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://youtube.com/@moviefireentertainment2097")
 
@@ -1221,7 +1221,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ʜᴏᴡ 2 ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/moviefireentertainment1'),
+	    InlineKeyboardButton(text="⚡ʜᴏᴡ 2 ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://telegram.me/moviefireentertainment1'),
         ] 
     )
     if offset != "":

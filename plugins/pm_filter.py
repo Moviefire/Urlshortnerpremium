@@ -597,7 +597,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
         ],[
-            InlineKeyboardButton('Watch Tutorial', url='https://t.me/how_to_watch_from_mdisk')
+            InlineKeyboardButton('Watch Tutorial', url='https://telegram.me/how_to_watch_from_mdisk')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(

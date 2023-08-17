@@ -688,7 +688,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://telegram.mee/moviefireentertainmentchat")
             ],[
-                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://youtube.com/@moviefireentertainment2097")
+                InlineKeyboardButton(text=f"⚡️ Buy premium 💵🦋", url=f"https://t.me/moviefireentertainment1/12")
 
             ]]
             btn_lzdv = [
@@ -716,7 +716,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://telegram.me/moviefireentertainmentchat")
             ],[
-                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://youtube.com/@moviefireentertainment2097")
+                InlineKeyboardButton(text=f"⚡️ Buy premium 💵🦋", url=f"https://t.me/moviefireentertainment1/12")
             ]]
             btn_lzdv = [
                 [
@@ -742,7 +742,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://telegram.me/moviefireentertainmentchat")
             ],[
-                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://youtube.com/@moviefireentertainment2097")
+                InlineKeyboardButton(text=f"⚡️ Buy premium 💵🦋", url=f"https://t.me/moviefireentertainment1/12")
 
             ]]
             btn_lzdv = [
@@ -769,7 +769,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://telegram.me/moviefireentertainmentchat")
             ],[
-                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://youtube.com/@moviefireentertainment2097")
+                InlineKeyboardButton(text=f"⚡️ Buy premium 💵🦋", url=f"https://t.me/moviefireentertainment1/12")
             ]]
             btn_lzdv = [
                 [
@@ -795,7 +795,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://telegram.me/moviefireentertainmentchat")
             ],[
-                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://youtube.com/@moviefireentertainment2097")
+                InlineKeyboardButton(text=f"⚡️ Buy premium 💵🦋", url=f"https://t.me/moviefireentertainment1/12")
 
             ]]
             btn_lzdv = [

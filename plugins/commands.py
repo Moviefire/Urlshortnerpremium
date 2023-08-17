@@ -55,7 +55,7 @@ async def start(client, message):
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
             ],[
-            InlineKeyboardButton('Watch Tutorial', url='https://youtube.com/@moviefireentertainment2097')
+            InlineKeyboardButton('Buy premium 💵', url='https://t.me/moviefireentertainment1/12')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -79,7 +79,7 @@ async def start(client, message):
             ],
              [
                 InlineKeyboardButton(
-                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://youtube.com/@moviefireentertainment2097'
+                    "🦋 Buy premium 💵 🦋", url='https://t.me/moviefireentertainment1/12'
                 )
             ]
         ]
@@ -108,7 +108,7 @@ async def start(client, message):
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
         ],[
-            InlineKeyboardButton('Watch Tutorial', url='https://youtube.com/@moviefireentertainment2097')
+            InlineKeyboardButton('Buy premium 💵', url='https://t.me/moviefireentertainment1/12')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
